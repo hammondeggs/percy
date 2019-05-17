@@ -1,8 +1,6 @@
-opyright (c) 2017 Jason Long (hammondeggs@hotmail.com), All rights reserved.
+Copyright (c) 2019 hammondeggs , All rights reserved.
 
 1. USE
-
-This software is licensed, not sold.
 
 The acquisition of this software by a user grants one license for the software. A
 license grants use on all operating systems on all applicable hardware owned by the
