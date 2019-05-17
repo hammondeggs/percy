@@ -1,7 +1,7 @@
 # percy
 *Is it "Perky"? Or is it "Pursey"? That's entirely up to you!*
 
-Percussive organ sample player for Korg Minilogue XD / Prologue synthesizers
+Percussive organ sample player for KORG Minilogue XD / Prologue synthesizers
 (C) hammondeggs 2019
 
 Using a simple sample based player, now you can create some new and old school inspired sounds with your Korg Minilogue-XD and Prologue synthesizers. 
@@ -22,7 +22,7 @@ This save file currently requires in addition to the Fundamental modules:
 #
 ### installation
 
-Ensure you have the Korg minilogue/prologue sound librarian installed. Now, before you do anything else, **perform a full and complete backup of your synthesizer and save this to disk before continuing**. See the sound librarian manual for instructions on how to do this if required.
+Ensure you have the KORG minilogue/prologue sound librarian installed. Now, before you do anything else, **perform a full and complete backup of your synthesizer and save this to disk before continuing**. See the sound librarian manual for instructions on how to do this if required.
 
 Next, select the USER OSCILLATORS tab on the librarian, and drag and drop the requisite file to an available slot in the librarian :
  - for Minilogue xd users, please use percy.mnlgxdunit
