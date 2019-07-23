@@ -6,6 +6,13 @@ Percussive organ sample player for KORG Minilogue XD / Prologue synthesizers
 
 Using a simple sample based player, now you can create some new and old school inspired sounds with your Korg Minilogue-XD and Prologue synthesizers. 
 
+
+### A quick word...
+I've been having a ton of fun creating these plugins, and it's thirsty work. If you like stuff like this and my other work, by all means feel free to contribute whatever you can to the fund to help fund the beer supply!
+
+This can be done here :  [Donate!](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MSTCVLXMG7Z5J&source=url)
+
+
 # As always, especially with the KORG user oscillators, these are to be used at your own risk!
 
 
