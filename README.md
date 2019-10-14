@@ -8,7 +8,7 @@ Using a simple sample based player, now you can create some new and old school i
 
 
 ### A quick word...
-I've been having a ton of fun creating these plugins, and it's thirsty work. If you like stuff like this and my other work, by all means feel free to contribute whatever you can to the fund to help fund the beer supply!
+I've been having a ton of fun creating these plugins, and if you like stuff like this and my other work, by all means feel free to contribute whatever you can!
 
 This can be done here :  [Donate!](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MSTCVLXMG7Z5J&source=url)
 
